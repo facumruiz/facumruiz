@@ -13,18 +13,25 @@ I'm glad you're here! Feel free to explore my tech stack and the tools I work wi
 </div>
 
 #### Backend Technologies
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+</div>
+
 
 #### Databases
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+</div>
 
 
 ### Other Languages I know
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
+    <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+</div>
 
 ### My Setup
 <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white">  

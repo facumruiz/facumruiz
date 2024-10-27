@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-### My Tech Stack
+### My tech stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
@@ -50,7 +50,7 @@
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
 
 
-### My last two projects
+### My last projects
 <table>
   <tr>
     <td valign="top">

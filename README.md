@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="top" width="565">
-      <p>My name is Facundo Ruiz, a <Strong> Full Stack Dev </Strong> studying embedded systems. My Electronic Technician degree has equipped me to adapt quickly to modern web and software technologies.
+      <p>I'm a <Strong> Full Stack Dev </Strong> studying embedded systems. My Electronic Technician degree has equipped me to adapt quickly to modern web and software technologies.
 
 
 </p>

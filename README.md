@@ -2,11 +2,14 @@
 
 <table>
   <tr>
-    <td valign="top" width="465">
-      <p>My name is <strong>Facundo Ruiz</strong>, and I'm currently studying <strong>embedded systems</strong>.</p>
-      <p>Thank you for visiting! I'm genuinely happy to share what I've been working on. Feel free to explore my projects and the tools I use. If you're interested, take a look at <a href="https://github.com/facumruiz?tab=repositories">my repositories.</a></p>
+    <td valign="top" width="565">
+      <p>My name is Facundo Ruiz, a <Strong> Full Stack Dev </Strong> studying embedded systems. My Electronic Technician degree has equipped me to adapt quickly to modern web and software technologies.
+
+
+</p>
+      <p>Thank you for visiting! I'm excited to share my work. Feel free to explore <a href="https://github.com/facumruiz?tab=repositories">my projects and repositories</a></p>
     </td>
-    <td valign="top" width="425">
+    <td valign="top" width="325">
 <div align="center">
   <a href="https://facundoruizdev.pythonanywhere.com/link">
     <img src="https://facundoruizdev.pythonanywhere.com/?theme=dark" alt="Current Spotify Song" width="350">

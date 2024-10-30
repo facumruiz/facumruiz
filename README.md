@@ -38,7 +38,6 @@
 </table>
 
 ### My tech stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-787878?style=flat)
